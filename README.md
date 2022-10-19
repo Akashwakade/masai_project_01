@@ -1,1 +1,1 @@
-# masai_project_01
+This is the practice of file for understanding gihhub funcationality.
